@@ -166,3 +166,36 @@ El cambio de DeFi es que lo hace accesible estos beneficios a todo el mundo.
 * Cualquier persona con un dispositivo e internet puede acceder
 * Puedes operar en cualquier momento del día los 365 días del año
 * Cualquier persona sin importar su edad, religión o situación financiera tiene la posibilidad de abrir una cartera DeFi
+
+## Conceptos DeFi
+
+### ¿Qué es un colateral?
+
+Es un activo que sirve como garantía frente a la concesión de un crédito, una emisión de bonos o cualquier otra operación financiera.
+
+### ¿Qué son los Vault?
+
+Es una “bóveda” donde los usuarios depositan tokens que permite que alguien más pueda manejar o gestionarlos para poder invertir.
+
+Ejemplo: Year Finance (Plataforma de optimización de inversión; invierten con tus activos)
+
+### ¿Qué es el Total Value Locked- TLV?
+
+Valor total garantizado o bloqueado dentro de un protocolo o Blockchain, regularmente representando en USD.
+
+### ¿Qué es un liquidity pools?
+
+Es un conjunto de fondos depositados destinados a proporcionar liquidez a una moneda, red o contrato inteligente.
+
+### ¿Qué es una perdida impermanente?
+
+Los proveedores de préstamos (LP) de Automated Market Makers (AMM), aportan activos para la liquidez de los participantes del mercado.
+
+### ¿Qué es Yield Farming?
+
+El yield farming (cultivo de rendimientos) es una forma de ganar más cripto con tus criptos. Consiste en prestar tus fondos a terceros gracias a la magia de unos programas de ordenador denominados smart contracts.
+
+Concepto propuesto por Yearn Finance.
+
+## Que es un token?
+
