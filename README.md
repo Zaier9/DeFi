@@ -66,7 +66,7 @@ DeFi es más allá de la especulación:
 
 "DeFi introdujo un concepto de valor en el tiempo al mundo de las criptomonedas" 
 
-### ¿Qué es el trading?
+### ##¿Qué es el trading?##
 
 Es comprar y vender dentro de un mercado.
 
