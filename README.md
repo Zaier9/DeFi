@@ -59,6 +59,8 @@ Colateralizados con cripto: Que están garantizados a las mismas criptonas que o
 * Deuda o promesa de pago.
 * Expresión de valor.
 
+
+
 ## DeFi vs Trading
 
 DeFi es más allá de la especulación:
