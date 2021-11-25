@@ -130,3 +130,39 @@ El cambio de DeFi es que lo hace accesible estos beneficios a todo el mundo.
 * Gracias a este protocolo se creará verdaderamente las condiciones adecuadas para una economía de crédito.
 * Antes de la actualización la emisión era ilimitada por lo tanto el efecto inflacionario era bastante.
 * Ahora con el cambio el efecto es deflacionario.
+
+## DeFi vs Sistema Financiero Tradicional
+
+### ¿Por qué invertir en DeFi?
+
+* Inclusión financiera
+* Portabilidad
+* Gestión total de los recursos
+* Efecto compound
+* Innovación e impacto
+
+### ¿Principal diferencia o valor agregado?
+
+* Transparencia
+* Descentralización
+* Interoperabilidad
+
+### Diferencias entre finanzas
+
+**Tradicionales**
+
+* Se transfiere valor a través de internet
+* Es necesario una institución financiera
+* Está limitada a operación en un país únicamente
+* Las barreras de entrada son muy altas para los nuevos usuarios
+* Operan en un horario limitado
+* Se somete al usuario bajo un análisis crediticio riguroso dependiendo del pais
+
+**Descentralizadas**
+
+* Se transfiere valor a través de blockchain
+* No es necesaria una institución financiera
+* Puede operar en cualquier parte del mundo
+* Cualquier persona con un dispositivo e internet puede acceder
+* Puedes operar en cualquier momento del día los 365 días del año
+* Cualquier persona sin importar su edad, religión o situación financiera tiene la posibilidad de abrir una cartera DeFi
