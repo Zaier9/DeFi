@@ -89,3 +89,44 @@ Es comprar y vender dentro de un mercado.
 * En trading los beneficios son únicamente sobre la especulación del precio de la criptomoneda. Mientras que en DeFi los beneficios son con el paso del tiempo.
 * En trading el mercado es de oferta y demanda. Mientras que en DeFi el mercado es sustentado en el crédito.
 * En trading el uso es únicamente como mercancía. Mientras que los activos DeFi son un medio, no un fin como mercancía especulativa.
+
+## Economía sustentada en Crédito
+
+Las stablecoins impulsaron la creación de “market moneys”, Propusieron cómo crear nuevas formas de marcado.
+
+
+### Credo - Creencia - Crédito.
+
+¿Cómo se comenzó a crear esa economía basada en el crédito?
+    
+    En el caso de DAI funciona parecido al dólar.
+
+    Todo esto funciona a través de cambia el paradigma del banco central a un protocolo sustentado por una organización.
+
+### Sistema de Smart Contracts:
+
+Se tiene mecanismos de estabilización que todo se conecta a través de oráculos que son sistemas que proveen información a Smart Contracts dentro y fuera de blockchain.
+
+Ejemplo: casa de empeño
+Se tiene un automóvil como colateral de 20k USD se deja el coche a una casa de empeño y se obtiene 5k USD.
+Con Cripto. tienes 20k USD en ETH la colocas en un Maker Vault y obtienes 5k USD en DAI.
+
+### ¿Cómo se comenzó a crear la economía basada en crédito?
+
+* Pones USD en Maker Vault, obtienes DAI el cual puedes depositarlo en AAVE para recibir ADAI.
+* Lo mismo puedes hacer en Compound y recibes CDAI.
+
+
+    **DeFi es un Game Changer en finanzas. No ha creado un nuevo concepto, pero sí cambia las reglas del juego.*
+
+El modelo se parece a un banco pero permitiendo que sea al alcance de cualquier persona.
+
+ **“Hoy en día gran parte de la economía en el mundo está sustentada en promesas de pago”*
+
+El cambio de DeFi es que lo hace accesible estos beneficios a todo el mundo.
+
+### Proyecto en Etherium EIP - 1599
+
+* Gracias a este protocolo se creará verdaderamente las condiciones adecuadas para una economía de crédito.
+* Antes de la actualización la emisión era ilimitada por lo tanto el efecto inflacionario era bastante.
+* Ahora con el cambio el efecto es deflacionario.
