@@ -197,5 +197,53 @@ El yield farming (cultivo de rendimientos) es una forma de ganar más cripto con
 
 Concepto propuesto por Yearn Finance.
 
-## Que es un token?
+## Tokens
 
+### ¿Qué es un activo?
+
+* Un activo es un recurso con valor que alguien posee con la intención de que genere un beneficio futuro ( sea económico o no)
+
+### ¿Cómo se representa un activo dentro de blockchain?
+
+* Se representa a través de los tokens.
+
+### ¿Qué es un token?
+
+* Representación de valor actual.
+
+    Ejemplos: Fichas de casino, Gift Cards
+
+* La representación de un token está explícitamente plasmada en el código de un smart contract dentro de la tecnología de la Blockchain.
+
+
+### Tipos de tokens y Crypto:
+
+* Store of value: Bitcoin.
+* Stable coins: Tether, DAI. USDT, etc.
+* Exchange tokens: UNI, BNB, SUSHI, CAKE, etc.
+* Utility Tokens: LINK, FIL, etc.
+* NFTs: Cryptokitties, Axie Infinity, etc.
+* Smart Contracts: ETH, TRON, etc.
+* Digital Currency: XMR, XLM, LTC, etc.
+
+### Definición entre layes e infraestructura:
+
+* Una criptomoneda corre dentro de la primera capa (protocolo de consenso, redes distribuidos, herramientas criptográficas, cadena de bloques).
+* Dentro de la segunda capa viven “X” cantidad de tokens habidos y por haber.
+* En la tercera capa hay una interacción entre plataformas
+
+
+### Diferencias entre tokens y criptos:
+
+* Una criptomoneda es independiente, mientras que un token necesita una criptomoneda.
+* Una criptomoneda no necesita un Smart Contract, mientras que el token necesita de un Smart Contract
+* Una criptomoneda opera en la primera capa del protocolo e consenso, mientras que un token operan en la segunda capa de Smart Contracts.
+* La función de la criptomoneda es limitada, mientras que los tokens pueden representar cualquier símbolo o valor.
+
+
+🙋🏿‍♂️**Criptomonedas (proyectos) interesantes:**
+
+* COMP
+* CAKE
+* AXS (Axie Infinity)
+* PVU (Plants vs Undead)
