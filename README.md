@@ -58,3 +58,33 @@ Colateralizados con cripto: Que están garantizados a las mismas criptonas que o
 
 * Deuda o promesa de pago.
 * Expresión de valor.
+
+## DeFi vs Trading
+
+DeFi es más allá de la especulación:
+
+"DeFi introdujo un concepto de valor en el tiempo al mundo de las criptomonedas" 
+
+### ¿Qué es el trading?
+
+Es comprar y vender dentro de un mercado.
+
+### ¿Cuáles son las principales diferencias entre Trading y DeFi?
+
+* Trading: “¡Ganaré dinero cuando venda a un precio!”
+* DeFi: “¡Mientras más tiempo estén trabajando mis criptos más beneficios tendré!”
+
+    Las personas están comprando criptomonedas únicamente esperando venderlas más caro que su precio de compra. 
+    Es como si solo compraras USD en un aeropuerto y no salieras de ahí para usarlo. 
+
+### ¿Cómo usar tus criptos? Ejemplos
+
+* Maker: Si dejas tus USDT cuando regreses obtendrás beneficios a través de un stability fee.
+* AAVE: Si dejas acá tus USDT puedes prestarles a otras personas y obtener un interés.
+* yearn.finance: Deja tus USDT y nos encargaremos de invertirlo en todos los protocolos de DeFi.
+
+### Diferencias entre trading y DeFi:
+
+* En trading los beneficios son únicamente sobre la especulación del precio de la criptomoneda. Mientras que en DeFi los beneficios son con el paso del tiempo.
+* En trading el mercado es de oferta y demanda. Mientras que en DeFi el mercado es sustentado en el crédito.
+* En trading el uso es únicamente como mercancía. Mientras que los activos DeFi son un medio, no un fin como mercancía especulativa.
