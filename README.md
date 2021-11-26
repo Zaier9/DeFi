@@ -247,3 +247,65 @@ Concepto propuesto por Yearn Finance.
 * CAKE
 * AXS (Axie Infinity)
 * PVU (Plants vs Undead)
+
+## Plataformas de lending money market
+
+### ¿Qué es un money market?
+
+    Es un mercado monetario o de dinero es el conjunto de mercados financieros independientes, pero relacionas, en los que se intercambian activos financieros.
+
+### Total value locked: lending
+
+* AAVE: 10.75 B
+* Compound: 6.83 B
+
+### ¿Cómo mandar dinero a protocolos lending?
+
+    Fiat a plataformas de intercambio para hacer transferencia a metamask.
+
+### ¿Qué es AAVE?
+
+* Es un protocolo de mercados financieros.
+
+Se puede:
+
+* Pedir préstamos.
+* Ofrecer liquidez a un pool y obtener un porcentaje de interés de cambio.
+
+
+### En el protocolo de mercados financiero hay 4 principales usuarios:
+
+* Lenders
+* Borrowers
+* Wallets
+* DAAPs
+
+Puedo prestar dinero (DAI) dentro de un pool para obtener a cambio un interés. El token (ADAI) funciona como un ticket de referencia.
+
+Para proveer liquidez se necesita usar una cripto como colateral y tendrá una tasa de interés estable o variable.
+
+
+### Tasa de interés:
+
+* La tasa estable siempre es más alta que la variable, mientras que la variable es más baja.
+* La tasa estable se paga un premium por mantener la tasa más estable, mientras que la variable es más riesgosa a corto plazo.
+* La tasa estable no significa que es fija.
+
+
+### Factores que afectan los porcentajes:
+
+* Porcentaje de utilización del pool de liquidez.
+* Demanda de préstamos.
+* Demanda de depósitos.
+
+
+### Factores de riesgo:
+
+* Cada criptomoneda tiene su propia evaluación de riesgo.
+* La evaluación de riesgo incluye varios factores.
+
+
+### Health factor:
+
+* Indica la relación entre el valor del colateral depositado y el préstamo tomado.
+* Que nunca llegue a 1. Lo más recomendable que esté por encima del 3 o el 4 (si teneos 25 queremos 100)
