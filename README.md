@@ -332,3 +332,25 @@ A día de hoy cambia el paradigma de los order books.
 
 * Es un conjunto de fondos depositados a proporcionar liquidez en una moneda, una red o un contrato inteligente.
 * Proporcionar liquidez se refiere a la capacidad de depositar dentro de un espacio.
+
+## Yield Farming y Yearn Finance
+
+Yield Farming es un concepto de conexión y optimización de inversión.
+Surge en el verano del 2020
+
+### ¿Qué es yield farming?
+
+* Es una forma de ganar más cripto con tus cripto.
+* Consiste en prestar tus fondos a terceros gracias a la magia de unos programas de ordenador denominados smart contracts.
+
+### ¿Quien propuso este proyecto?
+
+* Andre Cronje, según el profesor la 3 figura solo después de Nakamoto y Vitalik.
+
+### ¿Qué es Yearn Finance?
+
+* Es un conjunto de productos que proporciona agregación de préstamos, generación de rendimiento y seguros en la cadena de bloques de Ethereum.
+* El protocolo es mantenido por varios desarrolladores independientes y se rige por titulares de YFI.
+
+
+    En resumen, es un optimizador de inversiones que está interactuando con todos los protocolos y les saca el mayor provecho.
