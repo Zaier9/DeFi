@@ -309,3 +309,26 @@ Para proveer liquidez se necesita usar una cripto como colateral y tendrá una t
 
 * Indica la relación entre el valor del colateral depositado y el préstamo tomado.
 * Que nunca llegue a 1. Lo más recomendable que esté por encima del 3 o el 4 (si teneos 25 queremos 100)
+
+## Liquidity pools vs. order books
+
+### ¿Qué es un order book?
+
+* Es un espacio en el que hay un libro de ordenes de compra y venta dentro de en un mercado.
+* Es regulado con un market maker detrás.
+
+### ¿Qué es un market maker?
+
+* Es un bróker que puede ser una persona, una institución o algunas organizaciones que proveen la liquidez tanto de oferta y demanda para que el mercado funcione.
+
+### ¿Cómo fue evolucionando el concepto de los market makers?
+
+* Inició con la propuesta de la super computadora de Ethereum.
+* Con el boom de las ICO aparece Bancor y luego Uniswap que mejoró sobre el concepto anterior.
+A día de hoy cambia el paradigma de los order books.
+
+
+### Pools de liquidez
+
+* Es un conjunto de fondos depositados a proporcionar liquidez en una moneda, una red o un contrato inteligente.
+* Proporcionar liquidez se refiere a la capacidad de depositar dentro de un espacio.
