@@ -354,3 +354,23 @@ Surge en el verano del 2020
 
 
     En resumen, es un optimizador de inversiones que está interactuando con todos los protocolos y les saca el mayor provecho.
+
+## Navegando en Yearn Finance
+
+En este concepto invertir con Yearn Finance es como ser un agricultor de criptomonedas porque es como que deposites “semillas” en distintos espacios.
+
+Estas “semillas” crecen en base a diferentes interacciones que tiene que ver mucho con la liquidez, el volumen y la cantidad de personas que participan de dicho protocolos.
+
+
+Cuando el índice empieza con “y” tiene que ver con que son bóvedas referenciadas en Curve (CRV)
+Aquí te pedirá una interacción adicional.
+
+
+Debemos fijarnos en la version de vault. Muchos proyectos se actualizan y en las nuevas versiones. Mientras más actualizado estés seguramente estarás interactuando con los protocolos de mayor liquidez.
+
+
+Yearn Finance es una organización autónoma descentralizada en la cual se decide en base a comités quienes serán los estrategas.
+
+Cada opción es una estrategia de inversión planteada por uno de estos estrategas.
+
+Otra opción es Beefy finance. La líder es Year Finance.
