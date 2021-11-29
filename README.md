@@ -476,3 +476,11 @@ Recuerda que todo es relativo dependiendo el punto de referencia
 
 ### Codicia infantil 
 * El deseo de ser engañados cuando la mentira es agradable.
+
+## Portafolio de inversion
+
+### ¿Qué es un portafolio de inversión?
+
+* Es un conjunto de diversos de elementos financieros seleccionados y administrados con fundamentos solidos.
+
+Tu portafolio depende de tus características, necesidades, teniendo en cuenta tu realidad y perfil de inversionista.
