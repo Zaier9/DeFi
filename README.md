@@ -467,12 +467,12 @@ Recuerda que todo es relativo dependiendo el punto de referencia
 
 ### Sesgos emocionales comunes de inversión:
 
-* Exceso de confianza: Sobreestimar la habilidad par predecir, valorar activos, tomar decisiones.
-* Autocontrol: Los inversores prefieren consumir hoy antes que ahorra para mañana. Infravaloran los objetivos a largo plazo por falta de disciplina.
-* Status Quo: Preferencia por mantenerse dentro de la zona de confort y no enfrentarse al cambio
-* Dotación: Se valora más lo que ya se posee. Lo que se ha heredado o ya se ha comprado es lo correcto.
-* Aversión al remordimiento: Temor a las consecuencias negativas de errores u omisiones. relacionado con el “efecto disposición”
-* Confirmación: Cuando empezamos a corroborar con información que nuestra decisión es la correcta sin ver los puntos de vista contrarios.
+* **Exceso de confianza:** Sobreestimar la habilidad par predecir, valorar activos, tomar decisiones.
+* **Autocontrol:** Los inversores prefieren consumir hoy antes que ahorra para mañana. Infravaloran los objetivos a largo plazo por falta de disciplina.
+* **Status Quo:** Preferencia por mantenerse dentro de la zona de confort y no enfrentarse al cambio
+* **Dotación:** Se valora más lo que ya se posee. Lo que se ha heredado o ya se ha comprado es lo correcto.
+* **Aversión al remordimiento:** Temor a las consecuencias negativas de errores u omisiones. relacionado con el “efecto disposición”
+* **Confirmación:** Cuando empezamos a corroborar con información que nuestra decisión es la correcta sin ver los puntos de vista contrarios.
 
 ### Codicia infantil 
 * El deseo de ser engañados cuando la mentira es agradable.
