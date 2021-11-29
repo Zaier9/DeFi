@@ -417,3 +417,15 @@ Ahora veremos plataformas que nos permiten interactuar de una forma general para
     **Pruebas**
 
 * No firmes transacciones que no estás seguro cómo interactúan con tu wallet.
+
+## Inversion: caracteristicas y objetivos
+
+### Qué es una inversión?
+
+* El término inversión se refiere al acto de postergar el beneficio inmediato del bien invertido por la promesa de un beneficio futuro mayor.
+
+### ¿Qué es el ahorro?
+
+* Es la actividad de únicamente guardar dinero.
+
+Diferencias entre trading vs ahorro vs inversión.
