@@ -374,3 +374,35 @@ Yearn Finance es una organización autónoma descentralizada en la cual se decid
 Cada opción es una estrategia de inversión planteada por uno de estos estrategas.
 
 Otra opción es Beefy finance. La líder es Year Finance.
+
+## Plataformas de gestion de activos DeFi
+
+Ahora veremos plataformas que nos permiten interactuar de una forma general para poder almacenar y organizar de una mejor forma tus activos. Ayuda mucho para el tracking.
+
+
+### ¿Qué es el Money Lego?
+
+* Hace referencia a las piezas de Lego.
+* En el caso de DeFi esas piezas son protocolos.
+* Permiten los efectos de red, transparencia y interoperabilidad.
+
+
+### Plataformas de gestión:
+
+* Zerion
+* Instadapp
+
+### Zerion
+
+* Es la forma más sencilla de gestionar y controlar toda su cartera de DeFi desde un solo lugar. Te permite tener un historial.
+* Enlace https://zerion.io/
+* Manera de manejar nuestras inversiones usando protocolo DEFI
+* Usas MetaMask
+
+
+### Instadapp
+
+* La plataforma más avanzada del mundo para comenzar a aprovechar todo el potencial de las finanzas descentralizadas.
+* Cree casos de uso atractivos y monetice sus modelos para ganar dinero sirviendo a sus usuarios con alta confiabilidad.
+* Enlace https://instadapp.io/
+* La parte de simulación es muy interesante y sirve para que te familiarices con las inversiones DeFi.
