@@ -444,9 +444,9 @@ Recuerda que todo es relativo dependiendo el punto de referencia
 
 * Un sesgo cognitivo es un efecto psicológico que produce una desviación en el procesamiento mental, lo que lleva a una distorsión , juicio inexacto o interpretación ilógica.
 
-Lo malo: un sesgo cognitivo es un error sistemático en el pensamiento que impacta elecciones y juicios de uno.
+**Lo malo:** un sesgo cognitivo es un error sistemático en el pensamiento que impacta elecciones y juicios de uno.
 
-Lo bueno: Los sesgos cognitivos aumentan nuestra eficiencia mental al permitir tomar decisiones rápidas sin ninguna deliberación consciente.
+**Lo bueno:** Los sesgos cognitivos aumentan nuestra eficiencia mental al permitir tomar decisiones rápidas sin ninguna deliberación consciente.
 
 ### ¿Por qué existen?
 
@@ -455,14 +455,14 @@ Lo bueno: Los sesgos cognitivos aumentan nuestra eficiencia mental al permitir t
 ### Sesgo de anclaje:
 
 #### ¿Qué es?
-    Sesgo cognitivo que describe la tendencia de dar peso al prime número presentado en una negociación.
-    Nos “anclamos” al primer número o concepto y juzgamos todo lo demás en relación a eso.
+    * Sesgo cognitivo que describe la tendencia de dar peso al prime número presentado en una negociación.
+    * Nos “anclamos” al primer número o concepto y juzgamos todo lo demás en relación a eso.
 
 ### Sesgo de disponibilidad heurística:
 
 #### ¿Qué es?
-    Describe el atajo que trae ejemplos inmediatos, a la mente, al evaluar un tema, concepto, método o decisión específica.
-    Opera sobre la noción de que, si algo se puede recordar, debe ser importante.
+    * Describe el atajo que trae ejemplos inmediatos, a la mente, al evaluar un tema, concepto, método o decisión específica.
+    * Opera sobre la noción de que, si algo se puede recordar, debe ser importante.
 
 
 ### Sesgos emocionales comunes de inversión:
