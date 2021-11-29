@@ -484,3 +484,40 @@ Recuerda que todo es relativo dependiendo el punto de referencia
 * Es un conjunto de diversos de elementos financieros seleccionados y administrados con fundamentos solidos.
 
 Tu portafolio depende de tus características, necesidades, teniendo en cuenta tu realidad y perfil de inversionista.
+
+## Gestion de riesgos
+
+A través del análisis de gestión de riesgos veremos como se ven impactados nuestros activos.
+
+La idea es construir nuestros portafolio de inversión con los siguientes 3 pilares:
+
+Entender como funciona el instrumetno financiero
+Entender el comportamiento financiero de neustra mente dentro de los mercados.
+Saber gestionar los riesgos.
+
+### Riesgos dentro de DeFi:
+
+#### Riesgo por la Blockchain (Red de ETH vs Red de BNB):
+
+* Economía inflacionaria vs deflacionaria
+* Centralización vs descentralización
+* Costos altos vs bajos
+* Efectos de red e interoperabilidad
+
+#### Riesgos Cambiario:
+
+* Es el fenómeno que implica el que un agente económico coloque parte de sus activos en una moneda, o instrumento financiero denominado, en moneda diferente de la cual utiliza este agente como base para sus operaciones cotidianas de una institución financiera.
+
+#### Riesgo de Liquidez:
+
+* El riesgo de liquidez es la probabilidad de que la empresa tenga que vende sus activos por debajo de su valor de mercado cuando se presente una brecha, necesidad de liquidez.
+
+#### Riesgo Financiero:
+
+* El riesgo financiero se refiere a la probabilidad de ocurrencia de un evento que tenga consecuencias financieras negativas para una organización. Se debe entender las personas que están detrás del protocolo.
+
+#### Riesgo DAO:
+
+* Es un riesgo que únicamente está atribuido a la tecnología Blockchain. Los protocolos están apoyados por Organizaciones Autónomas Descentralizadas (DAO) y el comportamiento de esta organización puede suponer consecuencias para toda la red.
+
+Debes ser más consciente de tus riesgos par obtener más seguridad y beneficios.
