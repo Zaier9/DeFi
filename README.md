@@ -521,3 +521,31 @@ Saber gestionar los riesgos.
 * Es un riesgo que únicamente está atribuido a la tecnología Blockchain. Los protocolos están apoyados por Organizaciones Autónomas Descentralizadas (DAO) y el comportamiento de esta organización puede suponer consecuencias para toda la red.
 
 Debes ser más consciente de tus riesgos par obtener más seguridad y beneficios.
+
+## Arma tu portafolio de inversion
+
+El primer punto y más importante es tener un objetivo de inversión.
+
+### Debes considerar:
+
+* Invertir solo lo que estás dispuesto a perder
+* Horizonte de tiempo
+* Escenarios de comportamiento
+* Riesgos
+* Asset Allocation, diversificación y brecha entre beneficios obtenidos vs lo que deseas
+
+#### Ejemplos de Riegos:
+
+1. Riego Alto: “Invertí todo el dinero de mi patrimonio en una criptomoneda de nombre de un pájaro, pero seguro subirá 10x.”
+2. Riesgo Medio: “He invertido solo un porcentaje del dinero que no dispondré en los siguientes tres años en criptomonedas y otros en protocolos DeFi.”
+3. Riesgo Bajo: “He invertido solo un porcentaje del dinero que no dispondré en los siguientes tres años en protocolos de APY fijo.”
+
+### Arma tu propio portafolio de inversión:
+
+1. Define la naturaleza de activos con las que te sientes más cómodo
+2. Define el porcentaje de dinero que quieres invertir
+3. Define el objetivo de inversión
+4. Define el horizonte de tiempo
+5. Imagina los escenarios futuros
+6. Conoce los riesgos
+7. Arma tu portafolio con las mejores herramientas que te permitan gestionarlo.
