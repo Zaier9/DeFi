@@ -429,3 +429,50 @@ Ahora veremos plataformas que nos permiten interactuar de una forma general para
 * Es la actividad de únicamente guardar dinero.
 
 Diferencias entre trading vs ahorro vs inversión.
+
+## Sesgos cognitivos
+
+Debemos profundizar en como funciona nuestro cerebro ante la toma de decisiones.
+
+Muchas veces tomamos decisiones de forma irracional por nuestros sesgos cognitivos.
+
+Un ejemplo comportamiento irracional de mercado es la explosión de DogeCoin por los tweets de Elon Musk.
+
+Recuerda que todo es relativo dependiendo el punto de referencia
+
+### ¿Qué son los sesgos cognitivos?
+
+* Un sesgo cognitivo es un efecto psicológico que produce una desviación en el procesamiento mental, lo que lleva a una distorsión , juicio inexacto o interpretación ilógica.
+
+Lo malo: un sesgo cognitivo es un error sistemático en el pensamiento que impacta elecciones y juicios de uno.
+
+Lo bueno: Los sesgos cognitivos aumentan nuestra eficiencia mental al permitir tomar decisiones rápidas sin ninguna deliberación consciente.
+
+### ¿Por qué existen?
+
+* Debido a nuestra naturaleza como homo sapiens, debemos sistematizar todo.
+
+### Sesgo de anclaje:
+
+#### ¿Qué es?
+    Sesgo cognitivo que describe la tendencia de dar peso al prime número presentado en una negociación.
+    Nos “anclamos” al primer número o concepto y juzgamos todo lo demás en relación a eso.
+
+### Sesgo de disponibilidad heurística:
+
+#### ¿Qué es?
+    Describe el atajo que trae ejemplos inmediatos, a la mente, al evaluar un tema, concepto, método o decisión específica.
+    Opera sobre la noción de que, si algo se puede recordar, debe ser importante.
+
+
+### Sesgos emocionales comunes de inversión:
+
+* Exceso de confianza: Sobreestimar la habilidad par predecir, valorar activos, tomar decisiones.
+* Autocontrol: Los inversores prefieren consumir hoy antes que ahorra para mañana. Infravaloran los objetivos a largo plazo por falta de disciplina.
+* Status Quo: Preferencia por mantenerse dentro de la zona de confort y no enfrentarse al cambio
+* Dotación: Se valora más lo que ya se posee. Lo que se ha heredado o ya se ha comprado es lo correcto.
+* Aversión al remordimiento: Temor a las consecuencias negativas de errores u omisiones. relacionado con el “efecto disposición”
+* Confirmación: Cuando empezamos a corroborar con información que nuestra decisión es la correcta sin ver los puntos de vista contrarios.
+
+### Codicia infantil 
+* El deseo de ser engañados cuando la mentira es agradable.
