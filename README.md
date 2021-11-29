@@ -406,3 +406,11 @@ Ahora veremos plataformas que nos permiten interactuar de una forma general para
 * Cree casos de uso atractivos y monetice sus modelos para ganar dinero sirviendo a sus usuarios con alta confiabilidad.
 * Enlace https://instadapp.io/
 * La parte de simulación es muy interesante y sirve para que te familiarices con las inversiones DeFi.
+
+## Tips de seguridad para el manejo de wallets
+
+* Utiliza gestores de contraseñas como Myky y 1Password
+
+* Crea varias carteras de Metamask y cuentas: Principal, variable y de Pruebas
+
+* No firmes transacciones que no estás seguro cómo interactúan con tu wallet.
