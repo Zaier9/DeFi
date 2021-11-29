@@ -411,6 +411,9 @@ Ahora veremos plataformas que nos permiten interactuar de una forma general para
 
 * Utiliza gestores de contraseñas como Myky y 1Password
 
-* Crea varias carteras de Metamask y cuentas: Principal, variable y de Pruebas
+* Crea varias carteras de Metamask y cuentas: 
+    **Principal**
+    **Variable** 
+    **Pruebas**
 
 * No firmes transacciones que no estás seguro cómo interactúan con tu wallet.
